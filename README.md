@@ -19,6 +19,7 @@ https://github.com/jiayi-ma/RoadScene
 ![示例图片](images/result2.png)
 ## Citation
 #### If you use this project's code,please cite our paper:
+```bibtex
 @article{xxx_2025_ME-PMA,
   title={Enhanced Infrared and Visible Image Fusion via Latent Low-Rank and Coupled Feature Learning},
   author={xxx},
