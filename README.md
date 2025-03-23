@@ -9,7 +9,7 @@
 #### CPU Intel Core i7
 #### GPU NVIDIA RTX 3090 
 #### MATLAB
-## Datesets
+## Datasets
 #### TNO 
 https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029
 #### RaodSence 
