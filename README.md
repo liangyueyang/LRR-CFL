@@ -15,7 +15,7 @@ The experiment requires a hardware environment with Windows 10 OS, an Intel Core
 ### Clone the repository
 ```bash
 git clone https://github.com/liangyueyang/LRR-CFL.git
-cd repository
+cd LRR-CFL
 ```
 ### Usage
 Running Fusion Algorithm:  
