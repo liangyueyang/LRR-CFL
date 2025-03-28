@@ -22,6 +22,7 @@ Running Fusion Algorithm:
 - **LatLRR-CFL**:  Open the MATLAB script `Demo_fusion.m`. You need to set the path of the dataset you want to use in this file.
 - **MDLatLRR-CFL**:  Open the MATLAB script `main.m`. You need to set the path of the dataset you want to use in this file.
 ## 5. Key Algorithms and Implementation
+In the fusion stage, different strategies are applied to the base and detail parts. For the base parts, a fusion method based on CFL is employed, which jointly learns the shared features between infrared and visible images, ensuring the effective preservation of global structural information. The detail parts is fused using different strategies depending on the decomposition method: LatLRR-based details employ summation, and MDLatLRR-based details use nuclear norm regularization, maximizing the retention of detail information and enhancing texture and edge features. The fusion method of LatLRR-CFL is implemented in the `latlrr_cfl_Fusion.m` file, while the fusion method of MDLatLRR-CFL is implemented in the `mdlatlrr_cfl_Fusion.m` file.
 ## 6. Datasets and Experiments 
 ### Datasets
 Our data comes from the public datasets TNO and RoadScene, which can be obtained from the following links:  
