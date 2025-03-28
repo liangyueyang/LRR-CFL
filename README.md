@@ -7,10 +7,16 @@ Infrared and visible image fusion has gained significant attention in fields suc
 ![示例图片](images/framework.png)
 
 ## 3.Environment Setup
+Clone the repository
+git clone https://github.com/liangyueyang/LRR-CFL
+cd repository
 ### Sofware Dependencies
 MATLAB R2021b (or later) Required MATLAB toolboxes: Image Processing Toolbox. The required MATLAB packages can be installed via the matlab.addons.install function if needed.
 ### Hardware Requirements
 The experiment requires a hardware environment with Windows 10 OS, an Intel Core i7 processor, and an NVIDIA RTX 3090 GPU.
+## 4.Installation and Usage
+### Installation Steps
+
 ## Datasets
 #### TNO 
 https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029
