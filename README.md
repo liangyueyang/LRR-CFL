@@ -26,8 +26,8 @@ In the fusion stage, different strategies are applied to the base and detail par
 ## 6. Datasets and Experiments 
 ### Datasets
 Our data comes from the public datasets TNO and RoadScene, which can be obtained from the following links:  
--**TNO**: https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029  
--**RoadScene**: https://github.com/jiayi-ma/RoadScene
+- **TNO**: https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029  
+- **RoadScene**: https://github.com/jiayi-ma/RoadScene
 ### Experiments 
 ![示例图片](images/result.png)
 ![示例图片](images/result2.png)
