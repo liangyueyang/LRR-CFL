@@ -19,14 +19,14 @@ cd repository
 ```
 ### Usage
 Running Fusion Algorithm:  
-- **LatLRR-CFL**: Open the MATLAB script `Demo_fusion.m`. You need to set the path of the dataset you want to use in this file.
-- **MDLatLRR-CFL**: Open the MATLAB script `main.m`. You need to set the path of the dataset you want to use in this file.
+- **LatLRR-CFL**:  Open the MATLAB script `Demo_fusion.m`. You need to set the path of the dataset you want to use in this file.
+- **MDLatLRR-CFL**:  Open the MATLAB script `main.m`. You need to set the path of the dataset you want to use in this file.
 ## 5. Key Algorithms and Implementation
 ## 6. Datasets and Experiments 
 ### Datasets
 Our data comes from the public datasets TNO and RoadScene, which can be obtained from the following links:  
-TNO:https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029  
-RoadScene:https://github.com/jiayi-ma/RoadScene
+-**TNO**: https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029  
+-**RoadScene**: https://github.com/jiayi-ma/RoadScene
 ### Experiments 
 ![示例图片](images/result.png)
 ![示例图片](images/result2.png)
